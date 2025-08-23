@@ -12,9 +12,9 @@ Internet connection (Playwright will download the required browsers)
 
 # Clone the repository
 
-git clone <git@github.com:mrkrzychu/scalo_interview_task.git>
+git clone git@github.com:mrkrzychu/scalo_interview_task.git
 
-cd <scalo_interview_task>
+cd scalo_interview_task
 
 # Install dependencies
 
